@@ -9,6 +9,7 @@ title:               Marius Serban
 tagline:             Software developer
 url:                 http://www.serbanmarius.com/
 paginate:            1
+paginate_path:       "/blog/page:num/"
 baseurl:             ""
 
 # Assets
