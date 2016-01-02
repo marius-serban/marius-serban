@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Marius Serban
-tagline:             Software developer
+tagline:             Apps maker
 url:                 http://www.serbanmarius.com/
 paginate:            1
 paginate_path:       "/blog/page:num/"
