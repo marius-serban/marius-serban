@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-* [CV](http://www.serbanmarius.com/cv)
 * [Blog](/blog)
+* <a href="/public/marius-serban-cv.pdf" target="_blank" download>CV</a>
 * [GitHub](https://github.com/marius-serban)
 * [Twitter](https://twitter.com/smarius)
