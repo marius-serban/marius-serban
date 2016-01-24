@@ -26,6 +26,7 @@ author:
   email:             marius.ioan.serban@gmail.com
 
 # Custom vars
-version:             2.0.0
+version:                2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:                 https://github.com/poole/poole
+google_analytics_code:  UA-54241062-1
