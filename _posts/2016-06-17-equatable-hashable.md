@@ -21,6 +21,7 @@ Now if you want to store your items in collections such as `Set`s or `Dictionary
 Interestingly enough, `Set`s will admit two elements that have the same `hashValue`, provided that the elements are not equal as defined when conforming to the `Equatable` protocol. However, this strips away the performance gain of hash lookups.
 
 There is a strong connection between the two protocols in Swift:
+
 - they are both useful when dealing with elements as part of collections
 - they both refer to the concept of equality through the lens of a domain specific logic
 - one defines the equality concept more thoroughly while the other optimizes it for use in hash tables
