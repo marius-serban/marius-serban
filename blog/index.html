@@ -15,6 +15,10 @@ title: Blog
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
     {{ post.excerpt }}
+    <a href="{{ post.url }}">Read more...</a>
+    {% unless forloop.last %}
+    <hr />
+    {% endunless %}
   </article>
   {% endfor %}
 </div>
