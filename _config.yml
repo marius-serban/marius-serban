@@ -9,7 +9,7 @@ permalink:           pretty
 title:               Marius Serban
 tagline:             iOS Apps maker
 url:                 http://www.serbanmarius.com/
-paginate:            1
+paginate:            10
 paginate_path:       "/blog/page:num/"
 baseurl:             ""
 
